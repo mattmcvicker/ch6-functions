@@ -4,6 +4,8 @@
 # returns whether or not (e.g., a boolean) the length of one argument is greater
 # than or equal to twice the length of the other.
 # Hint: compare the length difference to the length of the smaller string
+is_twice_aslong <- function(string1, string2)
+  
 
 
 # Call your `is_twice_as_long` function by passing it different length strings
